@@ -30,6 +30,11 @@
     - navigateur nécessaire
     - compatibilité du device
     - capacités supplémentaires, etc...
+    
+    
+Lien du compossant :[Lien](https://github.com/MelanieTRIPOT/renduWebMobile/blob/main/pwa.jsx).
+
+    
 2 ) Expliquer en quoi il serait interessant de mettre en place une telle page :
 
 Cette page servirait a présenter a l'utilisateur ce qu'est une PWA et ou et comment on peut l'utlisser ( quels devices et cas d'utilisation)
