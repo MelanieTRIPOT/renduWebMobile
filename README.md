@@ -5,7 +5,7 @@
 ### I - Workbox
 
 1. liste des fonctionnalités offertes: 
-- gestion du cache => 5 stratégies de mise en chache voir quesiton 2
+- gestion du cache => 5 stratégies de mise en cache voir quesiton 2
 - gestions d'erreurs 
 - Preload du cache -> precharge les pages a l'aide du cache
 - Réécriture d'URL -> gestion des URL et des reponse requetes 
