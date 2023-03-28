@@ -30,6 +30,9 @@
     - navigateur nécessaire
     - compatibilité du device
     - capacités supplémentaires, etc...
-2 ) Expliquer en quoi il serait interessant de mettre en place une telle page
-Cette page servirait a 
+2 ) Expliquer en quoi il serait interessant de mettre en place une telle page :
+
+Cette page servirait a présenter a l'utilisateur ce qu'est une PWA et ou et comment on peut l'utlisser ( quels devices et cas d'utilisation)
+de plus la version installé de la PWA sera plus rapide et plus fluide que la version Web.
+utilisation de certainnes fonctionanilité PWA comme la notification push , vibration ect qui serait interessant pour l'utilisateur 
 
